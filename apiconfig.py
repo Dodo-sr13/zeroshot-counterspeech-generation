@@ -1,0 +1,3 @@
+project_name = "Hatespeech-CNERG/Toxicity-score"
+
+api_token="eyJhcGlfYWRkcmVzcyI6Imh0dHBzOi8vYXBwLm5lcHR1bmUuYWkiLCJhcGlfdXJsIjoiaHR0cHM6Ly9hcHAubmVwdHVuZS5haSIsImFwaV9rZXkiOiI4YjExZDQ2OC0wM2JjLTQyZjktYWE3OS1jZTg4ZThkOGZhNTEifQ=="
